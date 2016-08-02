@@ -1,0 +1,25 @@
+{
+  "name": "lab20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.0",
+    "install": "^0.8.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "npm": "^3.10.5"
+  }
+}
